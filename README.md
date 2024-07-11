@@ -1,5 +1,6 @@
 # 8051-Calculator
 ## A basic calculator using 8051 Microcontroller.
+# The calculator can perform basic mathematical operations (+, -, *, /) up to a limited number of digits.
 
 # Schematic:- 
 
