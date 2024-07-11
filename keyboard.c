@@ -26,7 +26,7 @@ void lcd_init(unsigned char str[]);
 
 void main()
 {
-	lcd_init("Type below:- ");
+	      lcd_init("Type below:- ");
     while (1)
     {
         while (operation == '\0')
@@ -51,7 +51,7 @@ void main()
 
 void lcd_init(unsigned char str[])
 {
-		lcdinit();
+    lcdinit();
     lcdstring(str);
     lcdcmd(0xC0);
 }
