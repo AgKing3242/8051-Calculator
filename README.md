@@ -8,7 +8,11 @@
 
 # Results:-
 
+Giving the input:
+
 ![IMG_20240712_014904189](https://github.com/AgKing3242/8051-Calculator/assets/139226792/662a6f16-f5fa-430f-8dd1-4667c70f7c75)
+
+Getting the output: 
 
 ![IMG_20240712_014915304](https://github.com/AgKing3242/8051-Calculator/assets/139226792/c92a25cf-9fa9-4445-acce-0ea2ce2f0731)
 
