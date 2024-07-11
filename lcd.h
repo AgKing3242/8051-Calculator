@@ -4,8 +4,7 @@ sbit rs=P2^5;
 sbit rw=P2^6;
 sbit en=P2^7;
 void delay(unsigned int time)  // Function for creating delay in milliseconds.
-{
-
+{
     unsigned i,j ;
     for(i=0;i<time;i++)    
     for(j=0;j<1250;j++);
