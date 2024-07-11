@@ -1,3 +1,5 @@
+
+https://github.com/AgKing3242/8051-Calculator/assets/139226792/f587c9da-0326-4297-a0f4-b78995c492c3
 # 8051-Calculator
 ## A basic calculator using 8051 Microcontroller.
 
@@ -10,3 +12,6 @@
 ![IMG_20240712_014904189](https://github.com/AgKing3242/8051-Calculator/assets/139226792/662a6f16-f5fa-430f-8dd1-4667c70f7c75)
 
 ![IMG_20240712_014915304](https://github.com/AgKing3242/8051-Calculator/assets/139226792/c92a25cf-9fa9-4445-acce-0ea2ce2f0731)
+
+https://github.com/AgKing3242/8051-Calculator/assets/139226792/66fb23c7-efee-49b9-809d-7ebf2113968d
+
