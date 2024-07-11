@@ -191,10 +191,10 @@ void check()
         strcpy(operand_buffer, "");
         operand1 = 0;
         operand2 = 0;
-				result = 0;
-				result_call_flag = 0;
-				strcpy(result_string, "");
-			lcd_init("Type below:-");
+        result = 0;
+        result_call_flag = 0;
+        strcpy(result_string, "");
+        lcd_init("Type below:-");
     }
     else if (c1 == 0)
     {
