@@ -35,17 +35,17 @@ void main()
         }
         operand1 = atoi(operand_buffer);
         strcpy(operand_buffer,"");
-				while (strlen(operand_buffer < 8) && result_call_flag == 0)
+    while (strlen(operand_buffer < 8) && result_call_flag == 0)
         {
             check();
         }
         operand2 = atoi(operand_buffer);
         calculate();
-				sprintf(result_string, "%ld", result);
-				lcd_init("Result:- ");
-				lcdstring(result_string);
-				operation = '\0';
-				result_call_flag = 0;
+        sprintf(result_string, "%ld", result);
+        lcd_init("Result:- ");
+        lcdstring(result_string);
+        operation = '\0';
+        result_call_flag = 0;
     }
 }
 
